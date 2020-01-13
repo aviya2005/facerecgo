@@ -5,8 +5,8 @@ import FaceRecognition from './components/FaceRecognition/FaceRecognition'
 import ImageForm from './components/imageform/ImageForm'
 import Rank from './components/rank/Rank';
 import Particles from 'react-particles-js';
-import SignIn from './components/signin/SignIn';
-import Register from './components/register/Register';
+import SignIn from './components/signin/SigninVaildation';
+import Register from './components/register/RegisterVaildation';
    
 const params= {
     "particles": {
